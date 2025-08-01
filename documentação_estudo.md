@@ -3,7 +3,7 @@ _Nesse arquivo vou documentar o processo de fazer a planilha e o que aprendi._
 
 ## Objetivo
 Como estudante de análise de dados, meu objetivo é melhorar numa ferramenta muito utilizada: Excel.  
-Para isso quero realizar um projeto simulado (no qual eu mesmo serei meu cliente) e usar o Excel como principal ferramenta mas atrelado a outros temas de meus estudos como:
+Para isso quero realizar um projeto simulado no qual o cliente será uma colega minha e usar o Excel como principal ferramenta mas atrelado a outros temas de meus estudos como:
 * Metodologia ágil (SCRUM) - mesmo que simulado, pois não tenho um time.
 * Conhecimentos amplos de excel (formatação, fórmulas, gráficos, pivot tables e macros).
 * Boas práticas de desenvolvimento, como usar uma planilha de suporte para validação de dados.
@@ -33,3 +33,11 @@ Como desenvolvedor:
 * Usei validação de dados, formatação e macros para facilitar o input de dados e entregar as funções solicitadas.
 * Utilizei técnicas de prompt para aprender sobre ferramentas do Excel que me ajudaram no processo.
 * Atualizei o repositório remoto no Github utilizando Git.
+
+- BACKLOG DA SEGUNDA SPRINT:
+  - O usuário deve ter uma planilha para alterar dados fixos.
+  - O usuário deve ter um dashboard de resumo com principais visualizações para obter ideias de sua situação financeira.
+
+- BACKLOG DA TERCEIRA SPRINT:
+  - O usuário deve ter um design atrativo e interativo, principalmente no dashboard.
+
